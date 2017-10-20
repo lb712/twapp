@@ -1,0 +1,163 @@
+
+   [
+    {
+      "credit" : "佳能",
+      "experience" : "￥23.00",
+      "friendnum" : "img1/1.jpg",
+      "groupid" : "1",
+      "headimage" : "佳能（Canon）EOS 5D Mark IV 机身 单反相机 （约3040万像素 双核CMOS 4K短片 Wi-Fi/NFC）",
+      "lastactivity" : "10"
+    },
+    {
+      "credit" : "索尼",
+      "experience" : "￥219.00",
+      "friendnum" : "img1/2.jpg",
+      "groupid" : "2",
+      "headimage" : "索尼（SONY）ILCE-7RM2全画幅微单相机（蔡司24-70 F4镜头SEL2470Z）α7RM2/a7R II/a7RM2",
+      "lastactivity" : "10"
+    },
+    {
+      "credit" : "思锐",
+      "experience" : "￥64.00",
+      "friendnum" : "img1/3.jpg",
+      "groupid" : "3",
+      "headimage" : "思锐（SIRUI）三脚架 R2004+G20KX 含云台佳能尼康单反相机三角架铝合金 单反相机三脚架 专业稳定 微单通用",
+      "lastactivity" : "10"
+    },
+    {
+      "credit" : "耐司",
+      "experience" : "￥85.00",
+      "friendnum" : "img1/4.jpg",
+      "groupid" : "4",
+      "headimage" : "耐司（NiSi）100mm V5套装 专业方镜支架 航空铝材 方形插片系统",
+      "lastactivity" : "10"
+    },
+    {
+      "credit" : "索尼",
+      "experience" : "￥48.00",
+      "friendnum" : "img1/5.jpg",
+      "groupid" : "5",
+      "headimage" : "索尼（SONY）Sonnar T* FE 55mm F1.8 ZA 蔡司全画幅标准定焦微单镜头 (SEL55F18Z)",
+      "lastactivity" : "10"
+    },
+    {
+      "credit" : "奥林巴斯",
+      "experience" : "￥45.00",
+      "friendnum" : "img1/6.jpg",
+      "groupid" : "6",
+      "headimage" : "奥林巴斯（OLYMPUS）E-M10 MarkII-1442-EZ 微单电电动变焦套机 五轴防抖 内置WiFi 电子快门 高速视频 银色",
+      "lastactivity" : "10"
+    },
+    {
+      "credit" : "小蚁（YI）",
+      "experience" : "￥99.00",
+      "friendnum" : "img1/8.jpg",
+      "groupid" : "8",
+      "headimage" : "小蚁（YI）微单相机黑色定焦镜头 0.5x放大倍率微距能力与85mm人像微距二合一镜头",
+      "lastactivity" : "10"
+    },
+    {
+      "credit" : "佳能",
+      "experience" : "￥70.00",
+      "friendnum" : "img1/9.jpg",
+      "groupid" : "9",
+      "headimage" : "佳能（Canon）EOS 800D 单反套机（ EF-S 18-135mm f/3.5-5.6 IS STM）",
+      "lastactivity" : "10"
+    },
+    {
+      "credit" : "奥林巴斯",
+      "experience" : "￥65.00",
+      "friendnum" : "img1/10.jpg",
+      "groupid" : "10",
+      "headimage" : "奥林巴斯（OLYMPUS）E-M5 MarkII（12-50mm黑色） 微型单电套机 银色（1610万像素 可翻转触摸屏 内置WiFi）",
+      "lastactivity" : "10"
+    },
+    {
+      "credit" : "尼康",
+      "experience" : "￥65.00",
+      "friendnum" : "img1/11.jpg",
+      "groupid" : "11",
+      "headimage" : "尼康（Nikon）D7100 单反双镜头套机（AF-P 18-55mm f3.5-5.6G VR 防抖 + 55-300mm f4.5-5.6G 防抖）",
+      "lastactivity" : "10"
+    },
+    {
+      "credit" : "索尼",
+      "experience" : "￥379.00",
+      "friendnum" : "img1/12.jpg",
+      "groupid" : "12",
+      "headimage" : "索尼（SONY）ILCE-6000L APS-C微单单镜套机 石墨灰（2430万有效像素 16-50mm镜头 F3.5-5.6 a6000L/α6000）",
+      "lastactivity" : "10"
+    },
+    {
+      "credit" : "索尼",
+      "experience" : "￥189.00",
+      "friendnum" : "img1/13.jpg",
+      "groupid" : "13",
+      "headimage" : "索尼（SONY） DSC-WX500 数码相机 白色（1820万有效像素3英寸180度可翻转屏 30倍光学变焦 Wi-Fi分享上传）",
+      "lastactivity" : "10"
+    },
+    {
+      "credit" : "佳能",
+      "experience" : "￥40.00",
+      "friendnum" : "img1/14.jpg",
+      "groupid" : "14",
+      "headimage" : "佳能（Canon）PowerShot G7 X Mark II 数码相机 （约2010万像素 DIGIC 7 1.0",
+      "lastactivity" : "10"
+    },
+    {
+      "credit" : "佳能",
+      "experience" : "￥83.00",
+      "friendnum" : "img1/15.jpg",
+      "groupid" : "15",
+      "headimage" : "佳能（Canon）PowerShot G7 X Mark II 数码相机 （约2010万像素 DIGIC 7 1.0",
+      "lastactivity" : "10"
+    },
+    {
+      "credit" : "富士",
+      "experience" : "￥83.00",
+      "friendnum" : "img1/16.jpg",
+      "groupid" : "16",
+      "headimage" : "富士（FUJIFILM）X-T20（XC 16-50II/XC 50-230II） 微单电双头套机 黑色 2430万像素 翻折触摸屏 4K",
+      "lastactivity" : "10"
+    },
+    {
+      "credit" : "松下",
+      "experience" : "￥39.00",
+      "friendnum" : "img1/17.jpg",
+      "groupid" : "17",
+      "headimage" : "松下数码相机（Panasonic) Lumix DMC-LX10 黑卡数码高清相机（ 2010万像素 等效24-72mm F1.4-2.8大光圈 徕卡镜头 五轴防抖 WIFI）",
+      "lastactivity" : "10"
+    },
+    {
+      "credit" : "索尼",
+      "experience" : "￥219.00",
+      "friendnum" : "img1/18.jpg",
+      "groupid" : "18",
+      "headimage" : "索尼（SONY）ILCE-7RM2全画幅微单相机（蔡司24-70 F4镜头SEL2470Z）α7RM2/a7R II/a7RM2",
+      "lastactivity" : "10"
+    },
+    {
+      "credit" : "小蚁",
+      "experience" : "￥214.00",
+      "friendnum" : "img1/19.jpg",
+      "groupid" : "19",
+      "headimage" : "小蚁（YI）微单相机M1黑色定焦变焦双镜套装 2016万像素 4K 时尚轻便可换镜头相机 (12-40mmF3.5-5.6,42.5mmF1.8)",
+      "lastactivity" : "10"
+    },
+    {
+      "credit" : "思锐",
+      "experience" : "￥64.00",
+      "friendnum" : "img1/20.jpg",
+      "groupid" : "20",
+      "headimage" : "思锐（SIRUI）三脚架 R2004+G20KX 含云台佳能尼康单反相机三角架铝合金 单反相机三脚架 专业稳定 微单通用",
+      "lastactivity" : "10"
+    },
+    {
+      "credit" : "耐司",
+      "experience" : "￥81.00",
+      "friendnum" : "img1/21.jpg",
+      "groupid" : "21",
+      "headimage" : "耐司（NiSi）100mm V5套装 专业方镜支架 航空铝材 方形插片系统",
+      "lastactivity" : "10"
+    }
+  ]
